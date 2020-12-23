@@ -20,3 +20,4 @@ yarn start
 - CSS Flex box for styling [SAMPLE CODE](https://codepen.io/anon/pen/VKxRoE?editors=1100) [VIDEO LINK](https://www.youtube.com/watch?v=k32voqQhODc)
 - Sorting Countries array as per country name [STACKOVERFLOW](https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value)
 - styling select [LINK](https://www.filamentgroup.com/lab/select-css.html)
+- Deploy react app on GitHub using github pages [TUTORIAL](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
